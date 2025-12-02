@@ -1,12 +1,12 @@
 # Handwritten Digit Recognition with MNIST
 # Description
 
-• This project demonstrates how to train machine learning and deep learning models to recognize handwritten digits (0–9) using the MNIST dataset.
-• I implemented three different approaches:
-• Scikit-learn: Logistic Regression baseline model
-• PyTorch: Feedforward Neural Network
-• TensorFlow/Keras: Deep Neural Network
-• The project helped me understand the complete ML workflow—from loading data and preprocessing to training models, evaluating accuracy, and making predictions.
+• This project demonstrates how to train machine learning and deep learning models to recognize handwritten digits (0–9) using the MNIST dataset.<br>
+• I implemented three different approaches:<br>
+     • Scikit-learn: Logistic Regression baseline model <br>
+     • PyTorch: Feedforward Neural Network <br>
+     • TensorFlow/Keras: Deep Neural Network <br>
+• The project helped me understand the complete ML workflow—from loading data and preprocessing to training models, evaluating accuracy, and making predictions.<br>
 
 # Motivation 
 • I created this project to learn core machine learning concepts and frameworks (NumPy, pandas, PyTorch, TensorFlow, scikit-learn), and to demonstrate that I can train, evaluate, and compare models.
