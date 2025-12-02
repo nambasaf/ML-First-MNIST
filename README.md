@@ -3,7 +3,7 @@
 
 • This project demonstrates how to train machine learning and deep learning models to recognize handwritten digits (0–9) using the MNIST dataset.<br>
 • I implemented three different approaches:<br>
-&emsp;• Scikit-learn: Logistic Regression baseline model <br>
+&emsp; &emsp;• Scikit-learn: Logistic Regression baseline model <br>
 &emsp;• PyTorch: Feedforward Neural Network <br>
 &emsp;• TensorFlow/Keras: Deep Neural Network <br>
 • The project helped me understand the complete ML workflow—from loading data and preprocessing to training models, evaluating accuracy, and making predictions.<br>
