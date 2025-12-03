@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+.mnist-env/
+mnist-env/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
